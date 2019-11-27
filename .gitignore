@@ -1,0 +1,10 @@
+*api_key*
+
+env
+
+__pycache__
+
+*.whl
+
+*.zip
+*.cpgz
